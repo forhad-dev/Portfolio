@@ -5,11 +5,11 @@ export const expertiseData = [
         Icon: Icon.Monitor
     },
     {
-        title:'Mac OS',
+        title:'Traveling',
         Icon: Icon.StopCircle
     },
     {
-        title:'Cinema',
+        title:'Photography',
         Icon: Icon.Video
     },
     {
@@ -51,12 +51,12 @@ export const expertiseData = [
 ]
 export const servicesData = [
     {
-        title:'UX / UI Design',
+        title:'Web Design',
         desc:'The phrasal sequence of the is now so that many campaign and benefit',
         Icon: Icon.Airplay
     },
     {
-        title:'Ios App Designer',
+        title:'Logo Design',
         desc:'The phrasal sequence of the is now so that many campaign and benefit',
         Icon: Icon.Aperture
     },
@@ -66,7 +66,7 @@ export const servicesData = [
         Icon: Icon.Camera
     },
     {
-        title:'Graphic Designer',
+        title:'Graphic Design',
         desc:'The phrasal sequence of the is now so that many campaign and benefit',
         Icon: Icon.Compass
     },
@@ -76,9 +76,9 @@ export const servicesData = [
         Icon: Icon.Settings
     },
     {
-        title:'Web Security',
+        title:'Web Development',
         desc:'The phrasal sequence of the is now so that many campaign and benefit',
-        Icon: Icon.Watch
+        Icon: Icon.Monitor
     },
 
 ]
