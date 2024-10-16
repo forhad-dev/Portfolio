@@ -86,42 +86,42 @@ export const project = [
    {
     image: '/images/works/1.jpg',
     title:'Fronter Theme',
-    subTitle: 'UI / UX Design',
+    subTitle: 'Graphic Design',
    },
    {
     image: '/images/works/2.jpg',
     title:'Fronter Theme',
-    subTitle: 'UI / UX Design',
+    subTitle: 'Graphic Design',
    },
    {
     image: '/images/works/3.jpg',
     title:'Fronter Theme',
-    subTitle: 'UI / UX Design',
+    subTitle: 'Graphic Design',
    },
    {
     image: '/images/works/4.jpg',
     title:'Fronter Theme',
-    subTitle: 'UI / UX Design',
+    subTitle: 'Graphic Design',
    },
    {
     image: '/images/works/5.jpg',
     title:'Fronter Theme',
-    subTitle: 'UI / UX Design',
+    subTitle: 'Graphic Design',
    },
    {
     image: '/images/works/6.jpg',
     title:'Fronter Theme',
-    subTitle: 'UI / UX Design',
+    subTitle: 'Graphic Design',
    },
    {
     image: '/images/works/7.jpg',
     title:'Fronter Theme',
-    subTitle: 'UI / UX Design',
+    subTitle: 'Graphic Design',
    },
    {
     image: '/images/works/8.jpg',
     title:'Fronter Theme',
-    subTitle: 'UI / UX Design',
+    subTitle: 'Graphic Design',
    }
    
 ]
